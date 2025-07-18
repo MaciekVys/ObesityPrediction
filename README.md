@@ -61,4 +61,4 @@ Zbiór danych zawiera informacje takie jak:
 ## 👤 Autor
 Maciej Wysocki
 
-LinkedIn: [https://www.linkedin.com/in/maciej-wysocki-b13826267/](#)
+LinkedIn: https://www.linkedin.com/in/maciej-wysocki-b13826267/
